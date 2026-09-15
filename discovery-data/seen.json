@@ -217,6 +217,12 @@
       "last_seen": "2026-09-06T16:15:21+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:c270fd8c13775a2f13c1": {
+      "candidate_id": "lookout:7f8d544a03d3819d58ac",
+      "first_seen": "2026-09-15T17:39:50+00:00",
+      "last_seen": "2026-09-15T17:39:50+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:c3aa1bf557182cc49cc5": {
       "candidate_id": "tn-ga:114:SB0972",
       "first_seen": "2026-09-05T16:16:08+00:00",
@@ -377,6 +383,19 @@
       "suggested_action": "NEW ENTRY",
       "title": "Flock cameras divide Tennessee governments, residents over privacy as some end their contracts",
       "url": "https://tennesseelookout.com/2026/09/08/flock-cameras-divide-governments-citizens-over-privacy-as-some-end-their-contracts"
+    },
+    "lookout:7f8d544a03d3819d58ac": {
+      "candidate_id": "lookout:7f8d544a03d3819d58ac",
+      "composite": 0.265,
+      "content_fingerprint": "c270fd8c13775a2f13c1",
+      "first_seen": "2026-09-15T17:39:50+00:00",
+      "issue_number": null,
+      "last_seen": "2026-09-15T17:39:50+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "Congress returns to session before midterms sprint, but no action expected on AI fears",
+      "url": "https://tennesseelookout.com/2026/09/15/repub/congress-returns-to-session-before-midterms-sprint-but-no-action-expected-on-ai-fears"
     },
     "lookout:d51e5dbbf87ad7825db5": {
       "candidate_id": "lookout:d51e5dbbf87ad7825db5",
@@ -977,6 +996,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-09-14T18:35:22+00:00",
+  "updated_at": "2026-09-15T17:39:50+00:00",
   "version": 1
 }
