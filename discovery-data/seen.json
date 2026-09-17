@@ -169,6 +169,12 @@
       "last_seen": "2026-09-06T16:14:58+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:97dd1b8f2c4929cc54be": {
+      "candidate_id": "lookout:de01df4c5741c85b7019",
+      "first_seen": "2026-09-17T17:37:43+00:00",
+      "last_seen": "2026-09-17T17:37:43+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:98b32f4d13b3383d90dd": {
       "candidate_id": "tn-ga:114:SB2171",
       "first_seen": "2026-09-07T18:15:12+00:00",
@@ -415,6 +421,19 @@
       "suggested_action": null,
       "title": "Tennessee to receive $750M of $17B Facebook, Instagram settlement",
       "url": "https://tennesseelookout.com/2026/08/26/tennessee-to-receive-750m-of-17b-facebook-instagram-settlement"
+    },
+    "lookout:de01df4c5741c85b7019": {
+      "candidate_id": "lookout:de01df4c5741c85b7019",
+      "composite": 0.23,
+      "content_fingerprint": "97dd1b8f2c4929cc54be",
+      "first_seen": "2026-09-17T17:37:43+00:00",
+      "issue_number": null,
+      "last_seen": "2026-09-17T17:37:43+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "US House leaves for campaign break without action on AI, affordability",
+      "url": "https://tennesseelookout.com/2026/09/16/repub/us-house-to-leave-for-campaign-break-without-action-on-ai-affordability"
     },
     "lookout:e2f9af3715a0d5f48883": {
       "candidate_id": "lookout:e2f9af3715a0d5f48883",
@@ -1015,6 +1034,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-09-16T17:37:17+00:00",
+  "updated_at": "2026-09-17T17:37:43+00:00",
   "version": 1
 }
