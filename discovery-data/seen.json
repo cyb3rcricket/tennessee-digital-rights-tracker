@@ -169,6 +169,12 @@
       "last_seen": "2026-09-06T16:14:58+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:96090e8ed0a016fd0b7e": {
+      "candidate_id": "lookout:c68bd5e562ed0bbef2a5",
+      "first_seen": "2026-09-21T18:39:26+00:00",
+      "last_seen": "2026-09-21T18:39:26+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:97dd1b8f2c4929cc54be": {
       "candidate_id": "lookout:de01df4c5741c85b7019",
       "first_seen": "2026-09-17T17:37:43+00:00",
@@ -408,6 +414,19 @@
       "suggested_action": "WATCH",
       "title": "Congress returns to session before midterms sprint, but no action expected on AI fears",
       "url": "https://tennesseelookout.com/2026/09/15/repub/congress-returns-to-session-before-midterms-sprint-but-no-action-expected-on-ai-fears"
+    },
+    "lookout:c68bd5e562ed0bbef2a5": {
+      "candidate_id": "lookout:c68bd5e562ed0bbef2a5",
+      "composite": 0.26,
+      "content_fingerprint": "96090e8ed0a016fd0b7e",
+      "first_seen": "2026-09-21T18:39:26+00:00",
+      "issue_number": null,
+      "last_seen": "2026-09-21T18:39:26+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "CNN, MS Now, Politico sue Trump over White House ban",
+      "url": "https://tennesseelookout.com/2026/09/21/repub/cnn-ms-now-politico-sue-trump-over-white-house-ban"
     },
     "lookout:d51e5dbbf87ad7825db5": {
       "candidate_id": "lookout:d51e5dbbf87ad7825db5",
@@ -1034,6 +1053,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-09-20T16:46:47+00:00",
+  "updated_at": "2026-09-21T18:39:26+00:00",
   "version": 1
 }
