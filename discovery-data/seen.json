@@ -247,6 +247,12 @@
       "last_seen": "2026-09-05T16:16:08+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:c91f9cca20c70f77557e": {
+      "candidate_id": "lookout:fd05facec8a004274ed2",
+      "first_seen": "2026-09-23T17:51:25+00:00",
+      "last_seen": "2026-09-23T17:51:25+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:c9c5137da930f703a4a7": {
       "candidate_id": "tn-ga:114:HB0849",
       "first_seen": "2026-09-07T18:15:08+00:00",
@@ -479,6 +485,19 @@
       "suggested_action": "WATCH",
       "title": "Trump\u2019s trade war with Canada escalates as new tariffs launch",
       "url": "https://tennesseelookout.com/2026/09/08/repub/trumps-trade-war-with-canada-escalates-as-new-tariffs-launch"
+    },
+    "lookout:fd05facec8a004274ed2": {
+      "candidate_id": "lookout:fd05facec8a004274ed2",
+      "composite": 0.49,
+      "content_fingerprint": "c91f9cca20c70f77557e",
+      "first_seen": "2026-09-23T17:51:25+00:00",
+      "issue_number": null,
+      "last_seen": "2026-09-23T17:51:25+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "Blackburn campaign drops legal threat of Registry over reappointments",
+      "url": "https://tennesseelookout.com/2026/09/23/blackburn-campaign-drops-legal-threat-of-registry-over-reappointments"
     },
     "tn-ag-news:pr26-33": {
       "candidate_id": "tn-ag-news:pr26-33",
@@ -1053,6 +1072,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-09-22T17:37:53+00:00",
+  "updated_at": "2026-09-23T17:51:25+00:00",
   "version": 1
 }
