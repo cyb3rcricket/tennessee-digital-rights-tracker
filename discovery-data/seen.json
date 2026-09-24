@@ -13,6 +13,12 @@
       "title": "Russ Gordon v. City of Hamtramck, Mich. (25-1917)",
       "url": "https://www.courtlistener.com/opinion/10954742/russ-gordon-v-city-of-hamtramck-mich"
     },
+    "fp:005fc0afa416ae16162f": {
+      "candidate_id": "lookout:f87bc83c2aa1bab74d80",
+      "first_seen": "2026-09-24T17:51:43+00:00",
+      "last_seen": "2026-09-24T17:51:43+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:0338cfc524c4374c932e": {
       "candidate_id": "cl:10954742",
       "first_seen": "2026-09-05T16:16:51+00:00",
@@ -35,6 +41,12 @@
       "candidate_id": "lookout:6dabef06787ad0254d5c",
       "first_seen": "2026-09-08T17:14:29+00:00",
       "last_seen": "2026-09-08T17:14:29+00:00",
+      "status": "fingerprint-alias"
+    },
+    "fp:0d2e3b90fa02556117d3": {
+      "candidate_id": "lookout:d7dc1190007ee6a7a864",
+      "first_seen": "2026-09-24T17:51:45+00:00",
+      "last_seen": "2026-09-24T17:51:45+00:00",
       "status": "fingerprint-alias"
     },
     "fp:0f844ce208e31b8c1608": {
@@ -295,6 +307,12 @@
       "last_seen": "2026-09-05T16:16:08+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:e31ec12fdfaae9ba6980": {
+      "candidate_id": "lookout:8de4642eed1f89c5523a",
+      "first_seen": "2026-09-24T17:51:21+00:00",
+      "last_seen": "2026-09-24T17:51:21+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:e3aab46e702221ba4784": {
       "candidate_id": "tn-ga:114:HB1946",
       "first_seen": "2026-09-07T18:15:16+00:00",
@@ -421,6 +439,19 @@
       "title": "Congress returns to session before midterms sprint, but no action expected on AI fears",
       "url": "https://tennesseelookout.com/2026/09/15/repub/congress-returns-to-session-before-midterms-sprint-but-no-action-expected-on-ai-fears"
     },
+    "lookout:8de4642eed1f89c5523a": {
+      "candidate_id": "lookout:8de4642eed1f89c5523a",
+      "composite": 0.825,
+      "content_fingerprint": "e31ec12fdfaae9ba6980",
+      "first_seen": "2026-09-24T17:51:21+00:00",
+      "issue_number": 95,
+      "last_seen": "2026-09-24T17:51:21+00:00",
+      "source_id": "lookout",
+      "status": "issue-created",
+      "suggested_action": "NEW ENTRY",
+      "title": "Democratic-leaning PAC goes after Republican congressional candidate over data centers",
+      "url": "https://tennesseelookout.com/2026/09/24/democratic-leaning-pac-goes-after-republican-congressional-candidate-over-data-centers"
+    },
     "lookout:c68bd5e562ed0bbef2a5": {
       "candidate_id": "lookout:c68bd5e562ed0bbef2a5",
       "composite": 0.26,
@@ -447,6 +478,19 @@
       "title": "Tennessee to receive $750M of $17B Facebook, Instagram settlement",
       "url": "https://tennesseelookout.com/2026/08/26/tennessee-to-receive-750m-of-17b-facebook-instagram-settlement"
     },
+    "lookout:d7dc1190007ee6a7a864": {
+      "candidate_id": "lookout:d7dc1190007ee6a7a864",
+      "composite": 0.52,
+      "content_fingerprint": "0d2e3b90fa02556117d3",
+      "first_seen": "2026-09-24T17:51:45+00:00",
+      "issue_number": null,
+      "last_seen": "2026-09-24T17:51:45+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "Blackburn campaign drops legal threat to Tennessee election finance board over reappointments",
+      "url": "https://tennesseelookout.com/2026/09/23/blackburn-campaign-drops-legal-threat-of-registry-over-reappointments"
+    },
     "lookout:de01df4c5741c85b7019": {
       "candidate_id": "lookout:de01df4c5741c85b7019",
       "composite": 0.23,
@@ -472,6 +516,19 @@
       "suggested_action": "WATCH",
       "title": "Attorney general defends Trump blast at US Supreme Court over vote-by-mail ruling",
       "url": "https://tennesseelookout.com/2026/09/16/repub/attorney-general-defends-trump-blast-at-us-supreme-court-over-vote-by-mail-ruling"
+    },
+    "lookout:f87bc83c2aa1bab74d80": {
+      "candidate_id": "lookout:f87bc83c2aa1bab74d80",
+      "composite": 0.86,
+      "content_fingerprint": "005fc0afa416ae16162f",
+      "first_seen": "2026-09-24T17:51:43+00:00",
+      "issue_number": 96,
+      "last_seen": "2026-09-24T17:51:43+00:00",
+      "source_id": "lookout",
+      "status": "issue-created",
+      "suggested_action": "NEW ENTRY",
+      "title": "OpenAI, Anthropic and other artificial intelligence companies hire Tennessee lobbyists",
+      "url": "https://tennesseelookout.com/2026/09/24/openai-anthropic-and-other-artificial-intelligence-companies-hire-tennessee-lobbyists"
     },
     "lookout:f88b06529e48a104773a": {
       "candidate_id": "lookout:f88b06529e48a104773a",
@@ -1072,6 +1129,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-09-23T17:51:25+00:00",
+  "updated_at": "2026-09-24T17:51:45+00:00",
   "version": 1
 }
