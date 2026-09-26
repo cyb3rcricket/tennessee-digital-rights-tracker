@@ -139,6 +139,12 @@
       "last_seen": "2026-09-16T17:37:17+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:61617829847d2a2c5b36": {
+      "candidate_id": "lookout:cd6de35312ec701494e0",
+      "first_seen": "2026-09-26T17:07:58+00:00",
+      "last_seen": "2026-09-26T17:07:58+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:6bba6d778ca4f04a1c0c": {
       "candidate_id": "tn-ga:114:SB2482",
       "first_seen": "2026-09-06T16:15:25+00:00",
@@ -155,6 +161,12 @@
       "candidate_id": "tn-ga:114:HB2369",
       "first_seen": "2026-09-06T16:15:30+00:00",
       "last_seen": "2026-09-06T16:15:30+00:00",
+      "status": "fingerprint-alias"
+    },
+    "fp:7c292ea74183779245de": {
+      "candidate_id": "lookout:d38c197c5bb18e6bf4f7",
+      "first_seen": "2026-09-26T17:08:02+00:00",
+      "last_seen": "2026-09-26T17:08:02+00:00",
       "status": "fingerprint-alias"
     },
     "fp:8af8f4fb314e68c6b8c5": {
@@ -299,6 +311,12 @@
       "candidate_id": "tn-ga:114:HB1246",
       "first_seen": "2026-09-06T16:13:55+00:00",
       "last_seen": "2026-09-06T16:13:55+00:00",
+      "status": "fingerprint-alias"
+    },
+    "fp:e15b2c008e3db6a2a92c": {
+      "candidate_id": "lookout:ccdcd48b641d151ecfab",
+      "first_seen": "2026-09-26T17:07:54+00:00",
+      "last_seen": "2026-09-26T17:07:54+00:00",
       "status": "fingerprint-alias"
     },
     "fp:e1ff215aa1c866715637": {
@@ -464,6 +482,45 @@
       "suggested_action": "WATCH",
       "title": "CNN, MS Now, Politico sue Trump over White House ban",
       "url": "https://tennesseelookout.com/2026/09/21/repub/cnn-ms-now-politico-sue-trump-over-white-house-ban"
+    },
+    "lookout:ccdcd48b641d151ecfab": {
+      "candidate_id": "lookout:ccdcd48b641d151ecfab",
+      "composite": 0.215,
+      "content_fingerprint": "e15b2c008e3db6a2a92c",
+      "first_seen": "2026-09-26T17:07:54+00:00",
+      "issue_number": null,
+      "last_seen": "2026-09-26T17:07:54+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "FDA nominee faces skepticism on vaccines from Republican senators at confirmation hearing",
+      "url": "https://tennesseelookout.com/2026/09/25/repub/fda-nominee-faces-skepticism-on-vaccines-from-republican-senators-at-confirmation-hearing"
+    },
+    "lookout:cd6de35312ec701494e0": {
+      "candidate_id": "lookout:cd6de35312ec701494e0",
+      "composite": 0.8725,
+      "content_fingerprint": "61617829847d2a2c5b36",
+      "first_seen": "2026-09-26T17:07:58+00:00",
+      "issue_number": 97,
+      "last_seen": "2026-09-26T17:07:58+00:00",
+      "source_id": "lookout",
+      "status": "issue-created",
+      "suggested_action": "NEW ENTRY",
+      "title": "Federal court upholds block on TN law making it a crime to aid minors seeking out-of-state abortions",
+      "url": "https://tennesseelookout.com/2026/09/25/federal-court-upholds-block-on-tn-law-making-it-a-crime-to-aid-minors-seeking-out-of-state-abortions"
+    },
+    "lookout:d38c197c5bb18e6bf4f7": {
+      "candidate_id": "lookout:d38c197c5bb18e6bf4f7",
+      "composite": 0.48,
+      "content_fingerprint": "7c292ea74183779245de",
+      "first_seen": "2026-09-26T17:08:02+00:00",
+      "issue_number": null,
+      "last_seen": "2026-09-26T17:08:02+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "Flock surveillance cameras raise constitutional questions, bipartisan US senators say",
+      "url": "https://tennesseelookout.com/2026/09/24/repub/flock-surveillance-cameras-raise-constitutional-questions-bipartisan-us-senators-say"
     },
     "lookout:d51e5dbbf87ad7825db5": {
       "candidate_id": "lookout:d51e5dbbf87ad7825db5",
@@ -1129,6 +1186,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-09-25T17:58:59+00:00",
+  "updated_at": "2026-09-26T17:08:02+00:00",
   "version": 1
 }
