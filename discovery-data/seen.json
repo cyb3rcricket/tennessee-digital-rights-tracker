@@ -295,6 +295,12 @@
       "last_seen": "2026-09-07T18:15:03+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:d0703f2a06e4d80412c1": {
+      "candidate_id": "lookout:7d436c3621e59a6a7c3a",
+      "first_seen": "2026-09-30T18:26:18+00:00",
+      "last_seen": "2026-09-30T18:26:18+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:de32e3416faad29f0c4b": {
       "candidate_id": "tn-ga:114:SB1261",
       "first_seen": "2026-09-05T16:18:13+00:00",
@@ -443,6 +449,19 @@
       "suggested_action": "NEW ENTRY",
       "title": "Flock cameras divide Tennessee governments, residents over privacy as some end their contracts",
       "url": "https://tennesseelookout.com/2026/09/08/flock-cameras-divide-governments-citizens-over-privacy-as-some-end-their-contracts"
+    },
+    "lookout:7d436c3621e59a6a7c3a": {
+      "candidate_id": "lookout:7d436c3621e59a6a7c3a",
+      "composite": 0.295,
+      "content_fingerprint": "d0703f2a06e4d80412c1",
+      "first_seen": "2026-09-30T18:26:18+00:00",
+      "issue_number": null,
+      "last_seen": "2026-09-30T18:26:18+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "News orgs banned from White House accuse Trump of First Amendment violation",
+      "url": "https://tennesseelookout.com/2026/09/29/repub/news-orgs-banned-from-white-house-accuse-trump-of-first-amendment-violation"
     },
     "lookout:7f8d544a03d3819d58ac": {
       "candidate_id": "lookout:7f8d544a03d3819d58ac",
@@ -1186,6 +1205,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-09-29T18:36:48+00:00",
+  "updated_at": "2026-09-30T18:26:18+00:00",
   "version": 1
 }
