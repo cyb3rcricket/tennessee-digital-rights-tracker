@@ -13,6 +13,19 @@
       "title": "Russ Gordon v. City of Hamtramck, Mich. (25-1917)",
       "url": "https://www.courtlistener.com/opinion/10954742/russ-gordon-v-city-of-hamtramck-mich"
     },
+    "cl:11008401": {
+      "candidate_id": "cl:11008401",
+      "composite": 0.305,
+      "content_fingerprint": "2c1425132f784237543d",
+      "first_seen": "2026-10-02T18:23:05+00:00",
+      "issue_number": null,
+      "last_seen": "2026-10-02T18:23:05+00:00",
+      "source_id": "courtlistener",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "William Fambrough v. City of E. Cleveland, Ohio (25-3300)",
+      "url": "https://www.courtlistener.com/opinion/11008401/william-fambrough-v-city-of-e-cleveland-ohio"
+    },
     "fp:005fc0afa416ae16162f": {
       "candidate_id": "lookout:f87bc83c2aa1bab74d80",
       "first_seen": "2026-09-24T17:51:43+00:00",
@@ -83,6 +96,12 @@
       "candidate_id": "tn-ga:114:SB2321",
       "first_seen": "2026-09-07T18:15:21+00:00",
       "last_seen": "2026-09-07T18:15:21+00:00",
+      "status": "fingerprint-alias"
+    },
+    "fp:2c1425132f784237543d": {
+      "candidate_id": "cl:11008401",
+      "first_seen": "2026-10-02T18:23:05+00:00",
+      "last_seen": "2026-10-02T18:23:05+00:00",
       "status": "fingerprint-alias"
     },
     "fp:31950a044fe40a66dadb": {
@@ -1205,6 +1224,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-10-01T18:51:11+00:00",
+  "updated_at": "2026-10-02T18:23:05+00:00",
   "version": 1
 }
