@@ -110,6 +110,12 @@
       "last_seen": "2026-10-02T18:23:05+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:3104dca7b7167476b60f": {
+      "candidate_id": "lookout:55728b3d51a97801ebe1",
+      "first_seen": "2026-10-16T17:23:14+00:00",
+      "last_seen": "2026-10-16T17:23:14+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:31950a044fe40a66dadb": {
       "candidate_id": "tn-ag-news:pr26-33",
       "first_seen": "2026-09-05T16:16:08+00:00",
@@ -480,6 +486,19 @@
       "suggested_action": "WATCH",
       "title": "How 9/11 changed the way America surveils its citizens",
       "url": "https://tennesseelookout.com/2026/09/11/repub/how-9-11-changed-the-way-america-surveils-its-citizens"
+    },
+    "lookout:55728b3d51a97801ebe1": {
+      "candidate_id": "lookout:55728b3d51a97801ebe1",
+      "composite": 0.6,
+      "content_fingerprint": "3104dca7b7167476b60f",
+      "first_seen": "2026-10-16T17:23:14+00:00",
+      "issue_number": null,
+      "last_seen": "2026-10-16T17:23:14+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "Rep. Pearson sues Memphis alleging First Amendment violation",
+      "url": "https://tennesseelookout.com/2026/10/15/rep-pearson-sues-memphis-alleging-first-amendment-violation"
     },
     "lookout:5ce38827abeb9f345633": {
       "candidate_id": "lookout:5ce38827abeb9f345633",
@@ -1262,6 +1281,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-10-15T17:47:21+00:00",
+  "updated_at": "2026-10-16T17:23:14+00:00",
   "version": 1
 }
