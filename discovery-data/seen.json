@@ -392,6 +392,12 @@
       "last_seen": "2026-09-05T16:17:00+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:ea048084510b561ca299": {
+      "candidate_id": "lookout:cc45dc0ecbc40f4d52cf",
+      "first_seen": "2026-10-22T17:58:04+00:00",
+      "last_seen": "2026-10-22T17:58:04+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:ed079a028cdcbc6ecdab": {
       "candidate_id": "tn-ga:114:HB2586",
       "first_seen": "2026-09-06T16:14:18+00:00",
@@ -577,6 +583,19 @@
       "suggested_action": "WATCH",
       "title": "CNN, MS Now, Politico sue Trump over White House ban",
       "url": "https://tennesseelookout.com/2026/09/21/repub/cnn-ms-now-politico-sue-trump-over-white-house-ban"
+    },
+    "lookout:cc45dc0ecbc40f4d52cf": {
+      "candidate_id": "lookout:cc45dc0ecbc40f4d52cf",
+      "composite": 0.245,
+      "content_fingerprint": "ea048084510b561ca299",
+      "first_seen": "2026-10-22T17:58:04+00:00",
+      "issue_number": null,
+      "last_seen": "2026-10-22T17:58:04+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "US Supreme Court allows gender-affirming care for trans people in federal prisons",
+      "url": "https://tennesseelookout.com/2026/10/21/repub/us-supreme-court-allows-gender-affirming-care-for-trans-people-in-federal-prisons"
     },
     "lookout:ccdcd48b641d151ecfab": {
       "candidate_id": "lookout:ccdcd48b641d151ecfab",
@@ -1281,6 +1300,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-10-21T18:00:26+00:00",
+  "updated_at": "2026-10-22T17:58:04+00:00",
   "version": 1
 }
