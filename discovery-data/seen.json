@@ -266,6 +266,12 @@
       "last_seen": "2026-09-05T16:16:09+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:a31bce97b192dc75fdd8": {
+      "candidate_id": "tn-ag-news:pr26-48",
+      "first_seen": "2026-10-26T19:14:45+00:00",
+      "last_seen": "2026-10-26T19:14:45+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:a6e477e7c156c013c808": {
       "candidate_id": "tn-ga:114:HB0933",
       "first_seen": "2026-09-05T16:18:08+00:00",
@@ -739,6 +745,19 @@
       "suggested_action": null,
       "title": "Attorney General Skrmetti Announces Largest Big Tech Settlement in History",
       "url": "https://www.tn.gov/attorneygeneral/news/2026/8/26/pr26-33.html"
+    },
+    "tn-ag-news:pr26-48": {
+      "candidate_id": "tn-ag-news:pr26-48",
+      "composite": 0.885,
+      "content_fingerprint": "a31bce97b192dc75fdd8",
+      "first_seen": "2026-10-26T19:14:45+00:00",
+      "issue_number": 98,
+      "last_seen": "2026-10-26T19:14:45+00:00",
+      "source_id": "attorney-general",
+      "status": "issue-created",
+      "suggested_action": "NEW ENTRY",
+      "title": "Tennessee Attorney General Fights to Protect Children and Consumers in Character.AI Bankruptcy",
+      "url": "https://www.tn.gov/attorneygeneral/news/2026/10/23/pr26-48.html"
     },
     "tn-ag-op:opinion-no-26-06": {
       "candidate_id": "tn-ag-op:opinion-no-26-06",
@@ -1300,6 +1319,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-10-25T17:02:45+00:00",
+  "updated_at": "2026-10-26T19:14:45+00:00",
   "version": 1
 }
