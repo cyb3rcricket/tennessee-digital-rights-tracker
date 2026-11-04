@@ -278,6 +278,12 @@
       "last_seen": "2026-09-05T16:18:08+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:a9d07e5760ca54fd90fc": {
+      "candidate_id": "tn-ga:114:HB0001",
+      "first_seen": "2026-11-04T20:25:23+00:00",
+      "last_seen": "2026-11-04T20:25:23+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:aba700b25d3a4a2b5f75": {
       "candidate_id": "tn-ga:114:HB1217",
       "first_seen": "2026-09-06T16:15:16+00:00",
@@ -771,6 +777,19 @@
       "suggested_action": "NEW ENTRY",
       "title": "Opinion No. 26-06: Moderation of Social-Media Accounts by Elected Officials",
       "url": "https://www.tn.gov/content/dam/tn/attorneygeneral/documents/ops/2026/op26-06.pdf"
+    },
+    "tn-ga:114:HB0001": {
+      "candidate_id": "tn-ga:114:HB0001",
+      "composite": 0.69,
+      "content_fingerprint": "a9d07e5760ca54fd90fc",
+      "first_seen": "2026-11-04T20:25:23+00:00",
+      "issue_number": null,
+      "last_seen": "2026-11-04T20:25:23+00:00",
+      "source_id": "general-assembly",
+      "status": "below-threshold",
+      "suggested_action": "NEW ENTRY",
+      "title": "HB0001: Damages - As introduced, creates a statutory damage award of $1,000,000 to a patient or other wrongful death beneficiary if the patient or other wrongful death beneficiary proves by a preponderance of the evidence that a defendant s",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0001&ga=115"
     },
     "tn-ga:114:HB0061": {
       "candidate_id": "tn-ga:114:HB0061",
@@ -1319,6 +1338,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-11-03T20:05:18+00:00",
+  "updated_at": "2026-11-04T20:25:23+00:00",
   "version": 1
 }
