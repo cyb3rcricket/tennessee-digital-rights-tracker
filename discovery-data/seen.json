@@ -230,6 +230,12 @@
       "last_seen": "2026-09-06T16:14:58+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:95a90b33e51565b32867": {
+      "candidate_id": "tn-ga:114:SB0003",
+      "first_seen": "2026-11-09T22:58:40+00:00",
+      "last_seen": "2026-11-09T22:58:40+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:96090e8ed0a016fd0b7e": {
       "candidate_id": "lookout:c68bd5e562ed0bbef2a5",
       "first_seen": "2026-09-21T18:39:26+00:00",
@@ -1085,16 +1091,16 @@
     },
     "tn-ga:114:SB0003": {
       "candidate_id": "tn-ga:114:SB0003",
-      "composite": 0.525,
-      "content_fingerprint": "03bbcb5a967cfdce7e98",
+      "composite": 0.75,
+      "content_fingerprint": "95a90b33e51565b32867",
       "first_seen": "2026-09-06T16:14:54+00:00",
-      "issue_number": null,
-      "last_seen": "2026-09-06T16:14:54+00:00",
+      "issue_number": 100,
+      "last_seen": "2026-11-09T22:58:40+00:00",
       "source_id": "general-assembly",
-      "status": "below-threshold",
-      "suggested_action": "WATCH",
-      "title": "SB0003: Abortion - As introduced, clarifies that the term \"abortion,\" as defined for the offense of criminal abortion, does not include the use of contraceptives, including any device, medication, biological product, or procedure that is ge",
-      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0003&ga=114"
+      "status": "issue-created",
+      "suggested_action": "NEW ENTRY",
+      "title": "SB0003: Privacy, Confidentiality - As introduced, enacts the \"Agricultural Data Privacy Act\"; requires persons to obtain consent from an agricultural producer before selling the producer's agricultural data.",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0003&ga=115"
     },
     "tn-ga:114:SB0345": {
       "candidate_id": "tn-ga:114:SB0345",
@@ -1357,6 +1363,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-11-08T18:20:08+00:00",
+  "updated_at": "2026-11-09T22:58:40+00:00",
   "version": 1
 }
