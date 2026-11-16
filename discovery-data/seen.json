@@ -182,6 +182,12 @@
       "last_seen": "2026-09-06T16:15:25+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:6bfa31c35e8267e1b72f": {
+      "candidate_id": "tn-ga:114:SB0002",
+      "first_seen": "2026-11-16T22:52:01+00:00",
+      "last_seen": "2026-11-16T22:52:01+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:6c028a010449a2b09b32": {
       "candidate_id": "tn-ga:114:HB2054",
       "first_seen": "2026-09-06T16:14:00+00:00",
@@ -1089,6 +1095,19 @@
       "title": "HB2586: State Government - As introduced, expands the requirements of the 2026 and 2027 annual reports to be submitted by the artificial intelligence advisory council to the governor, speaker of the senate, and speaker of the house of repre",
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2586&ga=114"
     },
+    "tn-ga:114:SB0002": {
+      "candidate_id": "tn-ga:114:SB0002",
+      "composite": 0.63,
+      "content_fingerprint": "6bfa31c35e8267e1b72f",
+      "first_seen": "2026-11-16T22:52:01+00:00",
+      "issue_number": null,
+      "last_seen": "2026-11-16T22:52:01+00:00",
+      "source_id": "general-assembly",
+      "status": "below-threshold",
+      "suggested_action": "UPDATE EXISTING",
+      "title": "SB0002: Damages - As introduced, creates a statutory damage award of $1 million to a patient or other wrongful death beneficiary if the patient or other wrongful death beneficiary proves by a preponderance of the evidence that a defendant s",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0002&ga=115"
+    },
     "tn-ga:114:SB0003": {
       "candidate_id": "tn-ga:114:SB0003",
       "composite": 0.75,
@@ -1363,6 +1382,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-11-15T19:21:13+00:00",
+  "updated_at": "2026-11-16T22:52:01+00:00",
   "version": 1
 }
