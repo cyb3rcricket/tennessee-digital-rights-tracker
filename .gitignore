@@ -3,3 +3,8 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .scout-state/
+
+# Secrets — never commit real env files (added Nov 9, 2026, Proof of Ship sweep)
+.env
+.env.*
+!.env.example
