@@ -183,9 +183,9 @@
       "status": "fingerprint-alias"
     },
     "fp:6bfa31c35e8267e1b72f": {
-      "candidate_id": "tn-ga:114:SB0002",
-      "first_seen": "2026-11-16T22:52:01+00:00",
-      "last_seen": "2026-11-16T22:52:01+00:00",
+      "candidate_id": "tn-ga:114:HB0001",
+      "first_seen": "2026-11-17T21:44:54+00:00",
+      "last_seen": "2026-11-17T21:44:54+00:00",
       "status": "fingerprint-alias"
     },
     "fp:6c028a010449a2b09b32": {
@@ -811,15 +811,15 @@
     },
     "tn-ga:114:HB0001": {
       "candidate_id": "tn-ga:114:HB0001",
-      "composite": 0.69,
-      "content_fingerprint": "a9d07e5760ca54fd90fc",
+      "composite": 0.655,
+      "content_fingerprint": "6bfa31c35e8267e1b72f",
       "first_seen": "2026-11-04T20:25:23+00:00",
       "issue_number": null,
-      "last_seen": "2026-11-04T20:25:23+00:00",
+      "last_seen": "2026-11-17T21:44:54+00:00",
       "source_id": "general-assembly",
       "status": "below-threshold",
-      "suggested_action": "NEW ENTRY",
-      "title": "HB0001: Damages - As introduced, creates a statutory damage award of $1,000,000 to a patient or other wrongful death beneficiary if the patient or other wrongful death beneficiary proves by a preponderance of the evidence that a defendant s",
+      "suggested_action": "UPDATE EXISTING",
+      "title": "HB0001: Damages - As introduced, creates a statutory damage award of $1 million to a patient or other wrongful death beneficiary if the patient or other wrongful death beneficiary proves by a preponderance of the evidence that a defendant s",
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0001&ga=115"
     },
     "tn-ga:114:HB0061": {
@@ -1382,6 +1382,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-11-16T22:52:01+00:00",
+  "updated_at": "2026-11-17T21:44:54+00:00",
   "version": 1
 }
