@@ -140,6 +140,12 @@
       "last_seen": "2026-09-11T17:00:59+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:4a9bc2c1a04dbf7c6cdb": {
+      "candidate_id": "lookout:7d0564bf95e5ab2f2901",
+      "first_seen": "2026-11-25T22:28:19+00:00",
+      "last_seen": "2026-11-25T22:28:19+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:4dc20d77c9513092457f": {
       "candidate_id": "tn-ga:114:SB2618",
       "first_seen": "2026-09-07T18:14:54+00:00",
@@ -567,6 +573,19 @@
       "suggested_action": "NEW ENTRY",
       "title": "Flock cameras divide Tennessee governments, residents over privacy as some end their contracts",
       "url": "https://tennesseelookout.com/2026/09/08/flock-cameras-divide-governments-citizens-over-privacy-as-some-end-their-contracts"
+    },
+    "lookout:7d0564bf95e5ab2f2901": {
+      "candidate_id": "lookout:7d0564bf95e5ab2f2901",
+      "composite": 0.28,
+      "content_fingerprint": "4a9bc2c1a04dbf7c6cdb",
+      "first_seen": "2026-11-25T22:28:19+00:00",
+      "issue_number": null,
+      "last_seen": "2026-11-25T22:28:19+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "National outages, emergency alerts become fodder for doomsday conspiracy theories",
+      "url": "https://tennesseelookout.com/2026/11/25/repub/national-outages-emergency-alerts-become-fodder-for-doomsday-conspiracy-theories"
     },
     "lookout:7d436c3621e59a6a7c3a": {
       "candidate_id": "lookout:7d436c3621e59a6a7c3a",
@@ -1401,6 +1420,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-11-24T22:59:57+00:00",
+  "updated_at": "2026-11-25T22:28:19+00:00",
   "version": 1
 }
