@@ -128,6 +128,12 @@
       "last_seen": "2026-09-07T18:15:26+00:00",
       "status": "fingerprint-alias"
     },
+    "fp:41b75843c0e94617ee8f": {
+      "candidate_id": "lookout:7adcc753771d74483ce1",
+      "first_seen": "2026-11-27T21:56:10+00:00",
+      "last_seen": "2026-11-27T21:56:10+00:00",
+      "status": "fingerprint-alias"
+    },
     "fp:447f7cefa45b343a76e7": {
       "candidate_id": "tn-ga:114:HB1866",
       "first_seen": "2026-09-06T16:14:09+00:00",
@@ -573,6 +579,19 @@
       "suggested_action": "NEW ENTRY",
       "title": "Flock cameras divide Tennessee governments, residents over privacy as some end their contracts",
       "url": "https://tennesseelookout.com/2026/09/08/flock-cameras-divide-governments-citizens-over-privacy-as-some-end-their-contracts"
+    },
+    "lookout:7adcc753771d74483ce1": {
+      "candidate_id": "lookout:7adcc753771d74483ce1",
+      "composite": 0.345,
+      "content_fingerprint": "41b75843c0e94617ee8f",
+      "first_seen": "2026-11-27T21:56:10+00:00",
+      "issue_number": null,
+      "last_seen": "2026-11-27T21:56:10+00:00",
+      "source_id": "lookout",
+      "status": "below-threshold",
+      "suggested_action": "WATCH",
+      "title": "Reproductive health providers say workforce shortage worsened by abortion bans",
+      "url": "https://tennesseelookout.com/2026/11/27/repub/reproductive-health-providers-say-workforce-shortage-worsened-by-abortion-bans"
     },
     "lookout:7d0564bf95e5ab2f2901": {
       "candidate_id": "lookout:7d0564bf95e5ab2f2901",
@@ -1420,6 +1439,6 @@
       "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2618&ga=114"
     }
   },
-  "updated_at": "2026-11-26T22:16:43+00:00",
+  "updated_at": "2026-11-27T21:56:10+00:00",
   "version": 1
 }
